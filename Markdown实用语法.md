@@ -184,12 +184,37 @@ Markdown中的转义字符为\,转义的有：（括号类特殊,例：\{\}）
 ##16 其他
 ###段落缩进（空格）
 ```
-
-```
 半方大的空白&ensp;或&#8194;看，飞碟
 全方大的空白&emsp;或&#8195;看，飞碟
 不断行的空白格&nbsp;或&#160;看，飞碟
 &emsp;&emsp;段落从此开始。
+```
+半方大的空白 或 看，飞碟
+全方大的空白 或 看，飞碟
+不断行的空白格 或 看，飞碟
+  段落从此开始。
+  
+###字体、字号、颜色  
+```
+
+```
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=12 face="黑体">黑体</font>
+<font color=#00ffff size=3>null</font>
+<font color=gray size=5>gray</font>
+  
+###标签
+####行内标签
+```
+快捷键`Ctrl+D`来收藏本页（Tab键上面的按键~）
+```
+快捷键`Ctrl+D`来收藏本页
+  
+  
+  
+
 
 
 
